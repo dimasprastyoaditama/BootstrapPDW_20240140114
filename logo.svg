@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#111827" stroke-width="4"/>
+  
+  <path d="M 50 80 C 50 70, 60 60, 80 60 L 110 60 C 130 65, 150 75, 150 85 C 150 90, 140 95, 130 95 L 60 95 C 50 95, 45 90, 50 80 Z" fill="#111827"/>
+  <path d="M 50 99 L 150 99 Q 145 105 130 105 L 60 105 Q 50 105 50 99 Z" fill="#111827"/>
+  
+  <text x="100" y="140" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#c1121f" text-anchor="middle" letter-spacing="4">SHOES</text>
+  
+  <text x="100" y="165" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#111827" text-anchor="middle" letter-spacing="3">SHOP</text>
+</svg>
